@@ -1,2 +1,2 @@
 # Task-Manager
-First nodeJS project
+First nodeJS project : This is simple task manager program. 
